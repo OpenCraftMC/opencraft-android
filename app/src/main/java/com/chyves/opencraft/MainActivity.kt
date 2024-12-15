@@ -1,4 +1,4 @@
-package com.example.myapp
+package com.chyves.opencraft
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
